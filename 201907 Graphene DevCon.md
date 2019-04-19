@@ -1,8 +1,11 @@
 # General
-The Global Graphene Blockchain Application Center(gbacenter.org) is jointly founded by the core members of the graphene blockchain community. It is committed to popularizing and promoting graphene blockchain technology to the developer-oriented public around the world, and strengthening communication between graphene ecological projects as a non-profit organization. We take the initiative to organize an international conference for BitShares, Graphene Blockchain enthusiasts, and entrepreneurs. The conference will be named Global Graphene Blockchain Developers Conference and is planned to be held in Shanghai, China from the 6th to 7th of July 2019. With theme of “Creating and Changing the Future”, the conference will not only share the latest breakthroughs in graphene blockchain technology, such as cross-chain, blockchain interoperability, trusted computing, etc., but also invite well-known institutions in the industry, such as exchanges, media, investment institutions, etc. to jointly explore the development of graphene ecosystem. Purpose of the conference is to gather Committee Members, Proxy Voters, Witnesses, BitShares Core Team and the BitShares Blockchain Foundation, and to attract more developers and technology enthusiasts to join the BitShares included graphene community.
+The **Global Graphene Blockchain Application Center**(gbacenter.org) is jointly founded by the core members of the graphene blockchain community. It is committed to popularizing and promoting graphene blockchain technology to the developer-oriented public around the world, and strengthening communication between graphene ecological projects as a non-profit organization. We take the initiative to organize an international conference for BitShares, Graphene Blockchain enthusiasts, and entrepreneurs. The conference will be named Global Graphene Blockchain Developers Conference and is planned to be held in Shanghai, China from the 6th to 7th of July 2019. With theme of “Creating and Changing the Future”, the conference will not only share the latest breakthroughs in graphene blockchain technology, such as cross-chain, blockchain interoperability, trusted computing, etc., but also invite well-known institutions in the industry, such as exchanges, media, investment institutions, etc. to jointly explore the development of graphene ecosystem. Purpose of the conference is to gather Committee Members, Proxy Voters, Witnesses, BitShares Core Team and the BitShares Blockchain Foundation, and to attract more developers and technology enthusiasts to join the BitShares included graphene community.
 
 There will also be speeches on cutting-edge technology, cases about blockchain technology serving entity industry, and a variety of activities such as dinners and cocktail parties. The conference is scheduled for 500-600 attendees.
+
 # Program, Tickets and Highlight
+
+![avatar](images/1.png)
 
 The registration will start at 11:00 a.m. on July 6th with an exhibition/demonstration event. The exhibitors will provide graphene blockchain based solutions and product services in various industries such as the Internet of Things, data economy, supply chain finance, logistics, etc. There will be a competition among all demonstrated projects, and the winner will have the opportunity to receive a project incubator package from the organizer.
 
@@ -32,6 +35,11 @@ The speeches will take place on July 7th, including keynote speeches and technic
 # Our Proposal
 
 On May 5th and 6th, 2018, we held the first global graphene blockchain developer conference in Shanghai, with over 40 speakers, over 1000 participants, and more than 30 domestic and foreign media reporting on the event, unprecedentedly enhancing the the influence of graphene blockchain technology. 
+
+2018 Graphene|DevCon
+:---:|:---:
+![avatar](images/2.png)|![avatar](images/3.png)
+![avatar](images/4.png)|![avatar](images/5.png)
 
 
 For more information on the 2018 conference, please refer to:
