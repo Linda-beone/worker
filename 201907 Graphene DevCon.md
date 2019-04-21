@@ -3,12 +3,16 @@ The **Global Graphene Blockchain Application Center**(gbacenter.org) is jointly 
 
 There will also be speeches on cutting-edge technology, cases about blockchain technology serving entity industry, and a variety of activities such as dinners and cocktail parties. The conference is scheduled for 500-600 attendees.
 
+# Introduction of the Conference
+
+### Name: Global Graphene Blockchain Developers Conference
+### Date: 6th-7th July,2019
+### Attendees: 500-600 
+### Location: Shanghai, China
+
 # Program, Tickets and Highlight
 
 ![avatar](images/1.png)
-
-## Date: 6th-7th July,2019
-## Attendees: 500-600 
 
 The registration will start at 11:00 a.m. on July 6th with an exhibition/demonstration event. The exhibitors will provide graphene blockchain based solutions and product services in various industries such as the Internet of Things, data economy, supply chain finance, logistics, etc. There will be a competition among all demonstrated projects, and the winner will have the opportunity to receive a project incubator package from the organizer.
 
