@@ -26,8 +26,8 @@ The speeches will take place on July 7th, including keynote speeches and technic
 |---|---|---|
 |**Regular Early Bird Ticket** (two-day through ticket) |15 USD |bitUSD/bitCNY/RMB|
 |**Regular Ticket** (two-day through ticket)| 30 USD |bitUSD/bitCNY/RMB|
-|**VIP Early Bird Ticket** (two-day through ticket with lunch and dinner) |150 USD|bitUSD/bitCNY/RMB|
-|**VIP ticket** (two-day through ticket with lunch and dinner)| 200 USD|bitUSD/bitCNY/RMB|
+|**VIP Early Bird Ticket** (two-day through ticket with lunch and dinner) |100 USD|bitUSD/bitCNY/RMB|
+|**VIP ticket** (two-day through ticket with lunch and dinner)| 150 USD|bitUSD/bitCNY/RMB|
 
 ## Highlights
 
